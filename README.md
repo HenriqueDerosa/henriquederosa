@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Henrique 👋
 
-<!--
-**HenriqueDerosa/henriquederosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on 
+  - React
+  - React Native App 🤳🏻
+  - First Catholic Developers community 🙏🏻 [contact if you're interested]
+- 🌱 I’m currently learning 
+  - React + Native + GraphQL + Firebase
+- 📈 I’m looking to collaborate on 
+  - Catholic softwares (Apps, APIs, Backend)
+  - React Native Mobile app
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/henrique-derosa-85884829/)
+- ⚡ Fun fact: 
+```
+background: ['unity', 'augmented reality', 'game maker', 'phaser framework', 'blitzbasic', '3d modelling']
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
