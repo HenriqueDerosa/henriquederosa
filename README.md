@@ -1,10 +1,10 @@
 ### Hi, I'm Henrique 👋
 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working with 
   - React
   - React Native App 🤳🏻
-  - First Catholic Developers community 🙏🏻 [contact if you're interested]
+  - First Catholic Developers community ✝️
 - 🌱 I’m currently learning 
   - React + Native + GraphQL + Firebase
 - 📈 I’m looking to collaborate on 
