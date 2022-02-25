@@ -1,19 +1,17 @@
 ### Hi, I'm Henrique 👋
-```
-Frontend Developer: react, flutter, unity
-```
+```dart
+Senior Software Engineer
+@JungleDevs
 
-Learning
-- Flutter 🤳🏻
-- Firebase
-- CI/CD - Bitrise / CircleCI
+React|Flutter
+```
 
 Looking to collaborate with
 - Time tracking solutions
-- Catholic softwares (Apps / APIs)
+- Catholic softwares
 
 ---
-> More information, check my Linked In profile
+> More information, check my LinkedIn profile
 
 📫 Reach me:  
 [![Linkedin Badge](https://img.shields.io/badge/-Henrique%20Derosa-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-derosa-85884829/)](https://www.linkedin.com/in/henrique-derosa-85884829/) 
