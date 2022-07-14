@@ -1,15 +1,11 @@
 ### Hi, I'm Henrique 👋
 ```dart
-Senior Software Engineer
-@JungleDevs
+Senior Frontend Engineer
+React + Javascript
 
-React|Flutter
+👨🏻‍💻 "Looking for a great remote frontend opportunity!"
 ```
 
-Looking to collaborate with
-- Frontend tools
-- Time tracking solutions
-- Catholic softwares
 
 ---
 > More information, check my **LinkedIn profile**
