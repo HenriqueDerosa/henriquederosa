@@ -1,12 +1,14 @@
 ### Hi, I'm Henrique 👋
-```dart
-Senior Frontend Engineer
-React + Javascript
+```ts
+Senior FrontendEngineer = [
+    React,
+    ReactNative,
+    TypeScript,
+    GraphQL,
+  ]
+  .vettedTalentIn(['G2i', 'Olby'])
+
 ```
-
-### Looking for a mentor? **Book a session**:
-
-[![Contact me on Codementor](https://www.codementor.io/m-badges/henriquederosa/im-a-cm-b.svg)](https://www.codementor.io/@henriquederosa?refer=badge)
 
 ### 📫 Reach me:  
 [![Linkedin Badge](https://img.shields.io/badge/-Henrique%20Derosa-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-derosa-85884829/)](https://www.linkedin.com/in/henrique-derosa-85884829/) 
